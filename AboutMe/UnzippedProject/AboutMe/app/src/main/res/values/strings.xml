@@ -1,0 +1,33 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">UROOJ FATIMA</string>
+    
+    <!-- Fragment titles -->
+    <string name="biography_title">Biography</string>
+    <string name="hobbies_title">Hobbies</string>
+    <string name="contact_title">Contact</string>
+    
+    <!-- Button labels -->
+    <string name="button_hobbies">Hobbies</string>
+    <string name="button_contact">Contact</string>
+    <string name="button_previous">Previous</string>
+    
+    <!-- Biography content -->
+    <string name="bio_text">Hello! I am Urooj Fatima, a passionate Master\'s student in Computer Science at Pace University. My academic journey has been focused on artificial intelligence, machine learning, and software development. I am particularly interested in developing intelligent systems that can solve real-world problems and make technology more accessible to everyone. At Pace University, I have been exploring cutting-edge AI technologies and working on various projects that combine theoretical knowledge with practical implementation. My goal is to contribute to innovative AI solutions that can make a positive impact on society. I enjoy working on machine learning algorithms, natural language processing, and computer vision projects. Through my studies, I have gained experience in various programming languages and frameworks, always eager to learn new technologies and methodologies in the rapidly evolving field of artificial intelligence.</string>
+    
+    <!-- Hobbies content -->
+    <string name="hobbies_text">As a Computer Science student specializing in AI, I love coding and experimenting with machine learning algorithms. In my free time, I enjoy reading research papers and staying updated with the latest developments in artificial intelligence and technology. I have a passion for creative writing and often document my learning journey through technical blogs. Photography is another hobby of mine, especially capturing moments that tell a story. I enjoy solving complex puzzles and brain teasers, which helps me think analytically. Gaming is also something I love, particularly strategy and puzzle games that challenge my problem-solving skills. I like to attend tech meetups and AI conferences to network with fellow researchers and learn from industry experts. Cooking and trying new recipes is my way of relaxing and being creative outside of technology.</string>
+    
+    <!-- Contact information -->
+    <string name="contact_email_label">My email is</string>
+    <string name="contact_email">UF28543n@pace.edu</string>
+    <string name="contact_location_label">Location</string>
+    <string name="contact_location">New York, NY</string>
+    <string name="contact_university_label">University</string>
+    <string name="contact_university">Pace University - Seidenberg School</string>
+    
+    <!-- Messages -->
+    <string name="fab_message">Email: UF28543n@pace.edu</string>
+    <string name="contact_toast_message">Going to Contact...</string>
+    
+</resources>
