@@ -10,5 +10,5 @@
 - Screenshot: `business_card.png`
 - Codelab: https://developer.android.com/codelabs/basic-android-kotlin-compose-business-card
 
-Repo: https://github.com/iabubakartahir/CS639  
-Course: CS639 | Student: Muhammad Abubakar Tahir | Due: Oct 27, 2024
+
+Course: CS639 | Student: Muhammad Abubakar Tahir 
