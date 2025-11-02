@@ -1,0 +1,24 @@
+# Gradle / builds
+.gradle/
+**/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+local.properties
+local.properties*
+
+# Captures
+captures/
+
+# Keystores
+*.jks
+*.keystore
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
+
+# APKs are generally ignored, but allow RaceTrack one for submission:
+*.apk
+!RaceTrack/apk/*.apk
