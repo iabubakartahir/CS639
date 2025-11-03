@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CircleApp</string>
+    <string name="app_title">Circle Area Calculator</string>
+    <string name="radius_label">Enter Radius:</string>
+    <string name="radius_hint">Enter radius value (e.g., 5.5)</string>
+    <string name="calculate_button">Calculate Area</string>
+    <string name="result_label">Circle Area:</string>
+    <string name="error_empty_field">Please enter a radius value</string>
+    <string name="error_invalid_number">Please enter a valid positive number</string>
+    <string name="error_zero_radius">Radius must be greater than zero</string>
+</resources>
+
