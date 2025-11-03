@@ -10,5 +10,3 @@ This folder contains my Android midterm project.
   - android project/  (full source code)  
   - app-debug.apk     (installable APK at root)  
   - circle_app_recording.webm (screen recording < 2 min demonstrating app functionality)
-
-This matches the exam instructions in **AndroidExamF2025**, including a working demo video showing correct app behavior and interface.
